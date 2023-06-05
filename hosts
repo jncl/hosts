@@ -363,22 +363,3 @@
 0.0.0.0 zap.buzz
 0.0.0.0 zeusadx.xml.ak-is2.net
 0.0.0.0 zimpolo.com
-
-0.0.0.0 (.*)toomics.com
-0.0.0.0 .*adskeeper.*
-0.0.0.0 .*adsrv.*
-0.0.0.0 .*alicdn.com
-0.0.0.0 .*bangbros.*
-0.0.0.0 .*hwcdn.net
-0.0.0.0 .*project1content.com
-0.0.0.0 .*track.*
-0.0.0.0 .*ttcache.com
-0.0.0.0 .*launchdarkly.com
-0.0.0.0 assets-land-ht.*
-0.0.0.0 b-hls-.*doppiocdn.com
-0.0.0.0 cdn.*ahacdn.me
-0.0.0.0 creative.x.*.com
-0.0.0.0 ht-cdn2.adtng.com.*
-0.0.0.0 pt-static..jsmsat.com
-0.0.0.0 static-ma-ht.*
-0.0.0.0 trk.*

@@ -1,0 +1,20 @@
+# Copy these entries and paste them into the pihole -> Domain management -> RegEx filter -> Regular Expression: entry box and click on Add to Blacklist button
+
+(.*)toomics.com
+.*adskeeper.*
+.*adsrv.*
+.*alicdn.com
+.*bangbros.*
+.*hwcdn.net
+.*project1content.com
+.*track.*
+.*ttcache.com
+.*launchdarkly.com
+assets-land-ht.*
+b-hls-.*doppiocdn.com
+cdn.*ahacdn.me
+creative.x.*.com
+ht-cdn2.adtng.com.*
+pt-static..jsmsat.com
+static-ma-ht.*
+trk.*
