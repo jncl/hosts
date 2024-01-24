@@ -1,0 +1,5 @@
+# Copy these entries and paste them into the pihole -> Domain management -> RegEx filter -> Regular Expression: entry box and click on Add to Whitelist button
+
+.*alicdn.com				# required by aliexpress
+.*aliexpress.com			# required by aliexpress
+(\.|^)launchdarkly\.com$	# required by FairFX App
