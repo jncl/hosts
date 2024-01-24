@@ -3,7 +3,6 @@
 (.*)toomics.com
 .*adskeeper.*
 .*adsrv.*
-.*alicdn.com
 .*bangbros.*
 .*hwcdn.net
 .*project1content.com
