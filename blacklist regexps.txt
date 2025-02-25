@@ -1,14 +1,17 @@
 # Copy these entries and paste them into the pihole -> Domain management -> RegEx filter -> Regular Expression: entry box and click on Add to Blacklist button
+# N.B. ONLY for home piholes
 
 (.*)toomics.com
+*.adultempire.com
+.*adsco.*
 .*adskeeper.*
 .*adsrv.*
 .*bangbros.*
 .*hwcdn.net
+.*launchdarkly.com
 .*project1content.com
 .*track.*
 .*ttcache.com
-.*launchdarkly.com
 assets-land-ht.*
 b-hls-.*doppiocdn.com
 cdn.*ahacdn.me
