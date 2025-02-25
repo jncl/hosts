@@ -1,0 +1,10 @@
+# Copy these entries and paste them into the pihole -> Domain management -> Domain -> Domain: entry box and click on Add to Whitelist button
+
+lptag.liveperson.net  # required by fd app chat
+tags.tiqcdn.com       # required by fd app chat
+track.webgains.com    # required by easyfundraising
+
+# Also add these for home pihole(s)
+fireoscaptiveportal.com		# required by Fire TV
+firetvcaptiveportal.com		# required by Fire TV
+regex101.com				# required for regexp testing
