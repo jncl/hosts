@@ -15,12 +15,9 @@
 .*mmstat.*
 .*npohfiolcotk.com
 .*project1content.com
-.*track.*
 .*ttcache.com
 .*webnotif.*
 assets-land-ht.*
 creative.x.*.com
 fourier.*
-pt-static..jsmsat.com
 static-ma-ht.*
-trk.*
