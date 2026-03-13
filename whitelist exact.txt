@@ -1,8 +1,12 @@
 # Copy these entries and paste them into the pihole -> Domain management -> Domain -> Domain: entry box and click on Add to Whitelist button
 
-lptag.liveperson.net  # required by fd app chat
-tags.tiqcdn.com       # required by fd app chat
-track.webgains.com    # required by easyfundraising
+lptag.liveperson.net 	# required by fd app chat
+tags.tiqcdn.com      	# required by fd app chat
+track.webgains.com   	# required by easyfundraising
+tag.aticdn.entries   	# required by easyfundraising
+metrics.brightcove.com 	# required by easyfundraising
+api.iterable.com 		# required by easyfundraising
+dx-track.com 			# track DX deliveries
 
 # Also add these for home pihole(s)
 fireoscaptiveportal.com		# required by Fire TV
