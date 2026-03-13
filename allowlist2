@@ -3,8 +3,8 @@
 !
 !
 ! required by Fire TV
-@@||fireoscaptiveportal.com^
-@@||firetvcaptiveportal.com^
+@@fireoscaptiveportal.com
+@@firetvcaptiveportal.com
 !
 ! required for regexp testing
-@@||regex101.com^
+@@regex101.com
