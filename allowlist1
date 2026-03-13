@@ -1,21 +1,19 @@
-[Adblock Plus]
-! Title: Jon's allowlist for FD app, easygiving, aliexpress, FairFX & dx-track app sites
-!
-!
-! required by aliexpress
-@@||alicdn.com^$document
-@@||aliexpress.com^$document
-!
-! required by DX delivery tracking
-@@||dx-track.com^$document
-!
-! required by easyfundraising
-@@||track.webgains.com^$document
-@@||tag.aticdn.entries^$document
-@@||metrics.brightcove.com^$document
-@@||api.iterable.com^$document
-!
-! required by fd app chat
-@@||lptag.liveperson.net^$document
-@@||tags.tiqcdn.com^$document
-@@||launchdarkly.com^$document
+# Title: Jon's allowlist for FD app, easygiving, aliexpress, FairFX & dx-track app sites
+
+# required by aliexpress
+alicdn.com
+aliexpress.com
+
+# required by DX delivery tracking
+dx-track.com
+
+# required by easyfundraising
+track.webgains.com
+tag.aticdn.entries
+metrics.brightcove.com
+api.iterable.com
+
+# required by fd app chat
+lptag.liveperson.net
+tags.tiqcdn.com
+launchdarkly.com

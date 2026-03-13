@@ -1,10 +1,8 @@
-[Adblock Plus]
-! Title: Jon's allowlist for Home sites
-!
-!
-! required by Fire TV
-@@||fireoscaptiveportal.com^$document
-@@||firetvcaptiveportal.com^$document
-!
-! required for regexp testing
-@@||regex101.com^$document
+# Title: Jon's allowlist for Home sites
+
+# required by Fire TV
+fireoscaptiveportal.com
+firetvcaptiveportal.com
+
+# required for regex testing site
+regex101.com
